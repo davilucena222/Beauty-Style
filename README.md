@@ -1,15 +1,17 @@
 # Beauty-Style
 
-<h1 align="center"> Computação Gráfica - Projetos acadêmicos desenvolvidos no semestre 2020.2 - Universidade Federal da Paraíba </h1>
-
-<p>Esses projetos foram desenvolvidos com as seguintes tecnologias: </p>
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias: </p>
 <ul>
+  <li>HTML</li>
+  <li>CSS</li>
   <li>JavaScript</li>
 </ul>
 
 <p>Bibliotecas: </p>
 <ul>
-  <li><a href="https://threejs.org/">Three.js</a></li>
+  <li><a href="https://scrollrevealjs.org/">ScrollRevel</a></li>
+  <li><a href="https://github.com/nolimits4web/Swiper">SwiperJS</a></li>
+  <li><a href="https://fonts.google.com/">Google Fonts</a></li>
 </ul>
 
 <h2>💻 Sobre o projeto: </h2>
