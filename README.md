@@ -22,5 +22,5 @@
 
 <h2>🔖 Layout da página: </h2>
 <p>
-  Você pode acessar a página clicando aqui.
+  Você pode acessar a página clicando <a href="https://davilucena222.github.io/Beauty-Style/">aqui.</a>
 </p>
