@@ -1,5 +1,4 @@
-<link href="https://github.com/davilucena222/Beauty-Style/blob/main/assets/img/hair.png?raw=true">
-# Beauty-Style
+ # Beauty Style 💇
 
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias: </p>
 <ul>
