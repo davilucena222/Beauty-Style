@@ -20,7 +20,7 @@
   A página possui as seguintes seções: Header, Home, Navigation, Sobre, Serviços, Depoimentos, Contato e Footer(rodapé).
 </p>
 
-<h2>🔖 Layout da página: </h2>
+<h2>🔖 Modelo da página/site: </h2>
 <p>
   Você pode acessar a página clicando <a href="https://davilucena222.github.io/Beauty-Style/">aqui.</a>
 </p>
