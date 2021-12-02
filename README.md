@@ -1,26 +1,25 @@
  # Beauty Style 💇
 
-<p>Esse projeto foi desenvolvido com as seguintes tecnologias: </p>
+<p>This project was developed with the following tecnologies: </p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
 
-<p>Bibliotecas: </p>
+<p>Libraries: </p>
 <ul>
   <li><a href="https://scrollrevealjs.org/">ScrollRevel</a></li>
   <li><a href="https://github.com/nolimits4web/Swiper">SwiperJS</a></li>
   <li><a href="https://fonts.google.com/">Google Fonts</a></li>
 </ul>
 
-<h2>💻 Sobre o projeto: </h2>
+<h2>💻 About the project: </h2>
 <p>
-  Beauty Sytle é uma página web que possui o formato One Page, a qual é possível ser utilizada como página principal ou site principal em         microempresas, pequenas empresas e médias empresas. 
-  A página possui as seguintes seções: Header, Home, Navigation, Sobre, Serviços, Depoimentos, Contato e Footer(rodapé).
+  Beauty Style is a web page that has the One Page format, which can be used like a main page or main site in micro, small and medium sized companies. The page has the following sections: Header, Home, Navigation, About, Services, Testimonials, Contacts and Footer.
 </p>
 
-<h2>🔖 Modelo da página/site: </h2>
+<h2>🔖 Page Model/site: </h2>
 <p>
-  Você pode acessar a página clicando <a href="https://davilucena222.github.io/Beauty-Style/">aqui.</a>
+  You can access the page by clicking <a href="https://davilucena222.github.io/Beauty-Style/">here.</a>
 </p>
