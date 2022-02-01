@@ -2,7 +2,8 @@
 You can confere the project layout by clicking <a target="_blank" href="https://www.figma.com/community/file/1009824839797878169">here</a>. The layout was created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> and I delveloped the platform adding more functionalities to become interactive and simple to use.
 
 <p align="center">
-    <img alt="Letmeask" src="" target="_blank" />
+    <img alt="Letmeask" src="![image](https://user-images.githubusercontent.com/56702492/152016189-c1b8178d-9add-4bfc-9fc4-fefba15431ec.png)
+" target="_blank" />
 </p>
 
 
