@@ -1,4 +1,10 @@
- # Beauty Style 💇
+## 🔖 Beaty Style Layout
+You can confere the project layout by clicking <a target="_blank" href="https://www.figma.com/community/file/1009824839797878169">here</a>. The layout was created by <a target="_blank" href="https://www.rocketseat.com.br">Rocketseat</a> and I delveloped the platform adding more functionalities to become interactive and simple to use.
+
+<p align="center">
+    <img alt="Letmeask" src="" target="_blank" />
+</p>
+
 
 <p>This project was developed with the following tecnologies: </p>
 <ul>
