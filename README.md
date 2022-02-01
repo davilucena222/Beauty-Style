@@ -30,3 +30,7 @@ You can confere the project layout by clicking <a target="_blank" href="https://
 <p>
   You can access the page by clicking <a href="https://davilucena222.github.io/Beauty-Style/">here.</a>
 </p>
+
+## 📝 License
+
+This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
